@@ -2,6 +2,14 @@ body {
     background-color: #0a0a23;
 }
 
+button {
+    cursor: pointer;
+    color: #0a0a23;
+    background-color: #feac32;
+    background-image: linear-gradient(#fecc4c, #ffac33);
+    border: 3px solid #feac32;
+}
+
 #text {
     background-color: #0a0a23;
     color: #ffffff;
@@ -38,26 +46,3 @@ body {
     padding-right: 10px;
 }
 
-#button1 {
-    cursor: pointer;
-    background-color: #feac32;
-    color: #0a0a23;
-    background-image: linear-gradient(#fecc4c, #ffac33);
-    border: 3px solid #feac32;
-}
-
-#button2 {
-    cursor: pointer;
-    background-color: #feac32;
-    color: #0a0a23;
-    background-image: linear-gradient(#fecc4c, #ffac33);
-    border: 3px solid #feac32;
-}
-
-#button3 {
-    cursor: pointer;
-    background-color: #feac32;
-    color: #0a0a23;
-    background-image: linear-gradient(#fecc4c, #ffac33);
-    border: 3px solid #feac32;
-}
